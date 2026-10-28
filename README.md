@@ -87,5 +87,6 @@
            name="LineageOS/android_device_qcom_sepolicy_vndr"
            remote="github"
            revision="lineage-24.0-caf-sm8450" />
+    <remove-project name="platform/prebuilts/module_sdk/WebApp" />
     </manifest>
     EOF
